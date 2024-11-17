@@ -1,0 +1,11 @@
+RAG:
+  base_dir: "langchain_exp/data/origin"
+  chunk_size: 200
+  chunk_overlap: 10
+
+LLM:
+  temperature: 0.0
+  top_k: 50
+  top_p: 0.95
+  max_length: 1000
+

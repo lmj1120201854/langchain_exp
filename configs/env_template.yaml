@@ -1,0 +1,9 @@
+OPENAI:
+  API_KEY: 'your api key'
+  BASE_URL: ''
+  MODEL: ''
+
+EMBEDDING:
+  API_KEY: ''
+  BASE_URL: ''
+  MODEL: ''
